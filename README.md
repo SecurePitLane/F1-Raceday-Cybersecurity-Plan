@@ -1,6 +1,5 @@
-# F1-Raceday-Cybersecurity-Plan
-Cybersecurity strategy for protecting Formula One team systems during race day operations
 # F1 Race Day Cybersecurity Plan 🏎️🔒
+Cybersecurity strategy for protecting Formula One team systems during race day operations
 
 ## 📑 Table of Contents
 - [Scenario](#-scenario)
