@@ -5,7 +5,7 @@ Cybersecurity strategy for protecting Formula One team systems during race day o
 ## 📑 Table of Contents
 - [Scenario](#-scenario)
 - [Threats Considered](#-threats-considered)
-- [Tools & Measures](#-tools-&-measures)
+- [Tools & Measures](#-tools-and-measures)
 - [Bonus Ideas](#-bonus-ideas)
 - [Why This Matters](#-why-this-matters)
 
@@ -29,7 +29,7 @@ Imagine you’re the lead cybersecurity tech for an F1 team. Your job is to ensu
 - Unpatched devices on Wi-Fi
 - Social engineering targeting pit crew or media
 
-## 🛠️ Tools & Measures
+## 🛠️ Tools And Measures
 
 | Area | Solution |
 |------|----------|
