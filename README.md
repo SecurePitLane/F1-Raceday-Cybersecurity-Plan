@@ -51,5 +51,9 @@ Formula One teams move **massive volumes of data in real time**, making them hig
 
 ---
 
+🔗 Related Project:
+- [`F1 Cyber Threat Model`](https://github.com/SecurePitLane/f1-cyber-threat-model): STRIDE-based breakdown of risks to an F1 team’s digital systems.
+
+
 🚧 *Work in progress. This is part of a larger portfolio on cybersecurity in sports environments.*
 
