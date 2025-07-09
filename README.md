@@ -5,7 +5,7 @@ Cybersecurity strategy for protecting Formula One team systems during race day o
 ## 📑 Table of Contents
 - [Scenario](#-scenario)
 - [Threats Considered](#-threats-considered)
-- [Tools & Measures](#-tools-and-measures)
+- [Tools & Measures](#tools-measures)
 - [Bonus Ideas](#-bonus-ideas)
 - [Why This Matters](#-why-this-matters)
 
